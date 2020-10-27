@@ -6,7 +6,7 @@ var gProjects = [
     { id: 'guess-who', name: 'Guess-Who', title: 'I know who you\'re thinking about!', desc: 'Think of a famous character, and answer yes/no questions. I will guess who it is', url: 'https://inbartamir.github.io/guess-who/', publishedAt: Date.now(), labels: ['HTML', 'CSS', 'JS'] },
     { id: 'bookshop', name: 'Bookshop', title: 'Just like a real bookshop!', desc: 'You can see which books we have on our bookstore, and even add books yourself', url: 'https://inbartamir.github.io/bookStore/', publishedAt: Date.now(), labels: ['HTML', 'CSS', 'JS'] },
     { id: 'my-bakery', name: 'My-Bakery', title: 'Order delicious cakes!', desc: 'We bake the cakes, and you enjoy them. You can view, order and send us a message', url: 'https://inbartamir.github.io/my-bakery/', publishedAt: Date.now(), labels: ['HTML', 'CSS', 'JS'] },
-    { id: 'place-keeper', name: 'Place-Keeper', title: 'Save your favorite locations!', desc: 'You can choose favorite locations on the map and save them and choose the way the app looks', url: 'https://inbartamir.github.io/place-keeper/', publishedAt: Date.now(), labels: ['HTML', 'CSS', 'JS'] }
+    { id: 'meme-gen', name: 'Meme-Generator', title: 'Make fun memes!', desc: 'Make funny memes, save, download and even share them', url: 'https://inbartamir.github.io/memeGen/', publishedAt: Date.now(), labels: ['HTML', 'CSS', 'JS'] }
 ];
 
 function getProjects() {
